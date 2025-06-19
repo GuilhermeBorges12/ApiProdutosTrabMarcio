@@ -32,6 +32,7 @@ PUT	/produto/:id	Atualiza um produto
 DELETE	/produto/:id	Remove um produto do sistema
 
 🧪 Documentação da API no Postman
+   https://documenter.getpostman.com/view/46036785/2sB2xBBoqJ
 
 🌐 Link da API online (deploy)
 
